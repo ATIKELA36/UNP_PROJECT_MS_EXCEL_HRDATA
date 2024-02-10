@@ -17,4 +17,4 @@ Emphasis on empowering HR teams with the necessary tools for addressing attritio
 
 This document serves as a valuable resource for HR professionals and analysts, offering a nuanced understanding of employee attrition dynamics and presenting data-driven recommendations for organizational enhancement in short
 
-[https://www.canva.com/design/DAF77YdA5qY/CdSqNXHKxfbd8-lhkALWGA/view?utm_content=DAF77YdA5qY&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://docs.google.com/spreadsheets/d/1yG-8jshiSM5sjQxQhiT6J1EBOphdwm7uw205SLKDg3Q/edit?usp=drive_link)https://docs.google.com/spreadsheets/d/1yG-8jshiSM5sjQxQhiT6J1EBOphdwm7uw205SLKDg3Q/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1yG-8jshiSM5sjQxQhiT6J1EBOphdwm7uw205SLKDg3Q/edit?usp=drive_link
