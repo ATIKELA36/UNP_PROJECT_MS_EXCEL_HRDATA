@@ -19,4 +19,4 @@ This document serves as a valuable resource for HR professionals and analysts, o
 
 EXCEL LINK https://docs.google.com/spreadsheets/d/1yG-8jshiSM5sjQxQhiT6J1EBOphdwm7uw205SLKDg3Q/edit?usp=drive_link
 
-PDF LINK https://drive.google.com/file/d/10ci0QM5aheYPJjwo8PyOZAe6_ZMKOc1k/view?usp=drive_link
+PDF https://drive.google.com/file/d/10ci0QM5aheYPJjwo8PyOZAe6_ZMKOc1k/view?usp=drive_link
